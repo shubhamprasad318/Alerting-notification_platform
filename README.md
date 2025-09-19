@@ -45,6 +45,7 @@ A comprehensive FastAPI-based alerting system with admin controls, user manageme
 `pip install -r requirements.txt`
 
 *`# Create database and seed data`* 
+
 `python dummy_data.py`
 
 *`# Start the server`*  
